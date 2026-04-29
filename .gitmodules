@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/samankwah/cumulus-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/samankwah/cumulus-frontend.git
+[submodule "ml"]
+	path = ml
+	url = https://github.com/samankwah/cumulus-training.git
